@@ -1,5 +1,5 @@
 ---
-title: "2022 National College Students Robot Competition RoboCon Robot Control System Design,
+title: "2022 National College Students Robot Competition ROBOCON Robot Control System Design,
 Sensor Design"
 collection: projects
 date: 2023-01-01

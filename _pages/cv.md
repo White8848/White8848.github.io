@@ -15,7 +15,7 @@ redirect_from:
 
 🤖 Competetion
 ======
-* 2022 National College Students Robot Competition RoboCon, First prize 
+* National College Students Robot Competition RoboCon, First prize 
 
 * National College Students Robot Competition RoboMaster, Second prize
 
