@@ -9,32 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+🎓️ Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Undergraduate student in Robot Engineering, China University of Petroleum-Beijing (CUP), 2020 – Present
 
-Work experience
+🤖 Competetion
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 National College Students Robot Competition RoboCon, First prize 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* National College Students Robot Competition RoboMaster, Second prize
+
+🔭 Organizational experience
+======
+* China University of Petroleum (Beijing) Robotics Association, Chairman
+
+* Beijing Wisdom Potato Technology Co., Founder
+
+💼 Work experience
+======
+* Summer 2023: R&D Intern
+  * Peitian Robotics Beijing R&D Center
+  * Duties included: Deep Learning Based Robot Model Recognition
   
-Skills
+🛠️ Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Dev-ROS/ROS2-informational?style=flat&logo=ros&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Dev-STM32-informational?style=flat&logo=stmicroelectronics&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=blue)
+
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+
 
 Publications
 ======
@@ -42,18 +55,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Leadership
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Organized Robotics Association members to participate in multiple robotics competitions and science and
+technology innovation competitions.
+
+* Organized a school robot competition with more than 20 teams and more than 100 students participating in
+the competition.
+
+* Organized the first Beijing RoboMaster competition with more than ten Beijing universities and more than
+200 students participating in the competition.
