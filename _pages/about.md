@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hey there! I'm Qinghua He, and my fascination with robotics has been a lifelong journey. From my early days as a junior high school student dabbling in contact robots to my current pursuit as an undergraduate at China University of Petroleum (Beijing), robotics has been my guiding light.
+Hey there!👋
+
+I'm Qinghua He, and my fascination with robotics has been a lifelong journey. From my early days as a junior high school student dabbling in contact robots to my current pursuit as an undergraduate at China University of Petroleum (Beijing), robotics has been my guiding light.
 Back in junior high, I was already immersed in the world of robotics as a contact robot enthusiast. Those formative years ignited a spark within me, propelling me to explore the realms of advanced control theory, navigation algorithms, and beyond.
 
 Throughout high school and college, I fueled my passion by actively participating in numerous robotics competitions. These experiences weren't just about winning or losing; they were about pushing boundaries, learning from failures, and celebrating triumphs with fellow robotics enthusiasts.
