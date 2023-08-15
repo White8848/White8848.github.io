@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qinghua He"
 title_separator          : "-"
 name                     : &name "Qinghua He"
-description              : &description "Undergraduate students at CUP"
+description              : &description "Undergraduate student at China University of Petroleum (Beijing)"
 url                      : https://White8848.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "White8848.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qinghua He"
   avatar           : "profile.png"
-  bio              : "Undergraduate student at China University of Petroleum (Beijing)"
+  bio              : "Undergraduate students at CUP"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/White8848"
+  github           : "White8848"
   google_plus      :
   keybase          :
   instagram        :
