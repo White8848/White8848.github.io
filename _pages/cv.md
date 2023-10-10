@@ -15,22 +15,27 @@ redirect_from:
 
 🤖 Competetion
 ======
-* National College Students Robot Competition RoboCon, First prize 
+* 07/2023 The First Place in the National ROBOCON Competition.
+* 08/2023 The Third Place in the National RoboMaster Competition.
+* 07/2022 The Second Place in the National ROBOCON Competition.
+* 08/2022 & 08/2021 The Second Place in the National RoboMaster Competition.
 
-* National College Students Robot Competition RoboMaster, Second prize
 
 🔭 Organizational experience
 ======
-* China University of Petroleum (Beijing) Robotics Association, Chairman
-
+* China University of Petroleum (Beijing) Competitive Robotics Team, Team leader
+  * Received several nationwide awards and applied for several patents
+  * Led the team to move up more than 20 places in the team rankings among Chinese universities in two years
 * Beijing Wisdom Potato Technology Co., Founder
+  * Designed robotics programs for elementary and middle school students in cooperation with several Beijing youth education institutions.
+  * Collaboration with China University of Petroleum and China University of Mining and Technology to develop robots for use in university program
 
 💼 Work experience
 ======
-* Summer 2023: R&D Intern
-  * Peitian Robotics Beijing R&D Center
-  * Duties included: Deep Learning Based Robot Model Recognition
-  
+* Peitian Robotics Beijing R&D Center, R&D Intern
+  * Optimization of industrial robot system identification parameters
+  * Improve torque feedforward accuracy by 30% using deep learning models for system identification
+
 🛠️ Skills
 ======
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=blue)
@@ -47,7 +52,8 @@ redirect_from:
 
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-
+![](https://img.shields.io/badge/Tools-TensorFlow2-informational?style=flat&logo=tensorflow&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=blue)
 
 Publications
 ======
