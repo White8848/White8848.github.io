@@ -8,3 +8,4 @@ location: "Beijing, China"
 * Integrated a dynamic constraint model based on ship motion characteristics, ensuring safe navigation and accurate trajectory tracking.
 * Optimized the algorithm, achieving a remarkable 50% reduction in time cost and delivering shorter navigation routes compared to RRT and RRT* algorithms
 
+<img src='/images/path planning.JPG'>

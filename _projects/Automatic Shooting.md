@@ -9,3 +9,4 @@ location: "Beijing, China"
 * Successfully crafted embedded programs for sentinel robots, facilitating cloud-controlled chassis movement and vertical adjustments. This pivotal development enabled seamless cloud-based control and automation of sentinel robots.
 * Innovated a fully automated sentinel aiming system that integrated automatic movement and accurate targeting. This achievement marked a significant stride in enhancing the sentinel robots' functionality, optimizing their ability to engage and neutralize enemy robots.
 
+<img src='/images/RoboMaster1.JPG'>

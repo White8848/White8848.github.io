@@ -54,7 +54,7 @@ redirect_from:
 ![](https://img.shields.io/badge/Tools-TensorFlow2-informational?style=flat&logo=tensorflow&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=blue)
 
-📖 Publications
+📖 Publications & Patent
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
