@@ -32,7 +32,7 @@ redirect_from:
 
 💼 Work experience
 ======
-* Peitian Robotics Beijing R&D Center, R&D Intern
+* Peitian Robotics Beijing R&D Center, Algorithm R&D Intern
   * Optimization of industrial robot system identification parameters
   * Improve torque feedforward accuracy by 30% using deep learning models for system identification
 
