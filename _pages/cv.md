@@ -20,7 +20,6 @@ redirect_from:
 * 07/2022 The Second Place in the National ROBOCON Competition.
 * 08/2022 & 08/2021 The Second Place in the National RoboMaster Competition.
 
-
 🔭 Organizational experience
 ======
 * China University of Petroleum (Beijing) Competitive Robotics Team, Team leader
@@ -55,13 +54,13 @@ redirect_from:
 ![](https://img.shields.io/badge/Tools-TensorFlow2-informational?style=flat&logo=tensorflow&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-LaTeX-informational?style=flat&logo=latex&logoColor=white&color=blue)
 
-Publications
+📖 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Leadership
+🦾 Leadership
 ======
 * Organized Robotics Association members to participate in multiple robotics competitions and science and
 technology innovation competitions.
