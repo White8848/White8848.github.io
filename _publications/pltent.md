@@ -2,7 +2,7 @@
 title: "Security Patrol Robot Based on McNamee Wheel (Patent Number: CN116620448A)"
 collection: publications
 permalink: /publication/pltent
-# excerpt: 'This paper is about an innovative RRT* based ship navigation algorithm'
+excerpt: 'This is a patent for a McNamee chassis robot.'
 date: 2023-4-26
 # venue: 'Journal of Marine Science and Engineering'
 # paperurl: 'https://www.mdpi.com/2077-1312/11/6/1102'
