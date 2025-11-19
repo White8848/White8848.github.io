@@ -51,10 +51,10 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04 - 2023.09</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.04 - 2023.09</div><img src='images/armor_detection.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Binocular Ranging & EKF-based Target Tracking & Shooting System**
+[**Binocular Ranging & EKF-based Target Tracking & Shooting System**](https://github.com/White8848/Yolov8-Armor)
 
 - Implemented a target keypoint detection pipeline based on YOLOv8-pose, extracting shooting part pixel coordinates and mapping them to 3D scene positions.
 - Designed and implemented an Extended Kalman Filter (EKF) fusion module, fusing IMU, drive motor encoders, and camera observations for recursive estimation of target pose/velocity and short-term trajectory prediction.
@@ -89,7 +89,7 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 
 # 📝 Publications & Patents
 
-- **He, Q.**, Hou, Z., & Zhu, X. (2023). A novel algorithm for ship route planning considering motion characteristics and ENC vector maps. *Journal of Marine Science and Engineering*, 11(6), 1102.
+- **He, Q.**, Hou, Z., & Zhu, X. (2023). [A novel algorithm for ship route planning considering motion characteristics and ENC vector maps](https://www.mdpi.com/2077-1312/11/6/1102). *Journal of Marine Science and Engineering*, 11(6), 1102.
 - Patent: "Security Patrol Robot Based on Mecanum Wheels" (CN116620448A).
 
 # 💼 Internships & Leadership
