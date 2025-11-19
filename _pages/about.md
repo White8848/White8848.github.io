@@ -40,7 +40,7 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10 - 2025.03</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10 - 2025.03</div><img src='images/MPC-path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multi-constraint MPC for Vehicle Obstacle Avoidance Trajectory Tracking**
