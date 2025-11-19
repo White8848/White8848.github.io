@@ -77,6 +77,7 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 - Designed and implemented an Extended Kalman Filter (EKF) fusion module, fusing IMU, drive motor encoders, and camera observations for recursive estimation of target pose/velocity and short-term trajectory prediction.
 - Modeled target motion and ballistic dynamics, constructing a real-time trajectory generation and launch angle/timing calculator.
 - Verified automatic hitting performance at 6–8 m distances under continuous motion conditions (Experimental hit rate ~92%).
+- [**Demo Video**](https://www.bilibili.com/video/BV1zL411B7iH/)
 </div>
 </div>
 
