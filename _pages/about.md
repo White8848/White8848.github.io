@@ -40,6 +40,23 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.02 - 2023.06</div>
+<img src='images/vk-rrt-1.png' alt="sym" width="100%">
+<div style="text-align: center;">Scenario 1</div>
+<img src='images/vk-rrt-2.png' alt="sym" width="100%">
+<div style="text-align: center;">Scenario 2</div>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+**Ship Route Planning for ENC Vector Charts (JMSE)**
+
+- Addressed boundary errors and conversion losses in traditional rasterized charts by using ENC vector chart data to construct channel configuration spaces.
+- Organized vector data based on Delaunay triangulation and embedded ship kinematics constraints (fixed speed, turning radius, heading change) in path search.
+- Proposed VK-RRT* algorithm, integrating kinematics constraints and goal-biased sampling. Experiments showed ~23% reduction in path length compared to standard RRT*.
+- Verified algorithm generality in island channel and port vicinity scenarios.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.10 - 2025.03</div><img src='images/MPC-path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,23 +89,6 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 - Supported Mecanum wheel and Swerve chassis models, providing kinematics and dynamics solving functions with a unified interface structure.
 - Decoupled execution control and perception data streams, designing modular task loops and device abstraction layers to improve code maintainability.
 - Reused in multiple competitive and research robots, significantly reducing hardware porting and control strategy iteration costs.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.02 - 2023.06</div>
-<img src='images/vk-rrt-1.png' alt="sym" width="100%">
-<div style="text-align: center;">Scenario 1</div>
-<img src='images/vk-rrt-2.png' alt="sym" width="100%">
-<div style="text-align: center;">Scenario 2</div>
-</div></div>
-<div class='paper-box-text' markdown="1">
-
-**Ship Route Planning for ENC Vector Charts (JMSE)**
-
-- Addressed boundary errors and conversion losses in traditional rasterized charts by using ENC vector chart data to construct channel configuration spaces.
-- Organized vector data based on Delaunay triangulation and embedded ship kinematics constraints (fixed speed, turning radius, heading change) in path search.
-- Proposed VK-RRT* algorithm, integrating kinematics constraints and goal-biased sampling. Experiments showed ~23% reduction in path length compared to standard RRT*.
-- Verified algorithm generality in island channel and port vicinity scenarios.
 </div>
 </div>
 
