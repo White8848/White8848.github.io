@@ -27,7 +27,7 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 
 # 💻 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06 - 2024.03</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06 - 2024.03</div><img src='images/nav_demo.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Autonomous Navigation System based on 3D LiDAR & Vision Fusion (ROS2)**
