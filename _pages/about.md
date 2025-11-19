@@ -48,7 +48,7 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-**Ship Route Planning for ENC Vector Charts (JMSE)**
+[**Ship Route Planning for ENC Vector Charts (JMSE)**](https://www.mdpi.com/2077-1312/11/6/1102)
 
 - Addressed boundary errors and conversion losses in traditional rasterized charts by using ENC vector chart data to construct channel configuration spaces.
 - Organized vector data based on Delaunay triangulation and embedded ship kinematics constraints (fixed speed, turning radius, heading change) in path search.
