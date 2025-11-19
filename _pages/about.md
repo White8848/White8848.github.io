@@ -75,7 +75,12 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.02 - 2023.06</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.02 - 2023.06</div>
+<img src='images/vk-rrt-1.png' alt="sym" width="100%">
+<div style="text-align: center;">Scenario 1</div>
+<img src='images/vk-rrt-2.png' alt="sym" width="100%">
+<div style="text-align: center;">Scenario 2</div>
+</div></div>
 <div class='paper-box-text' markdown="1">
 
 **Ship Route Planning for ENC Vector Charts (JMSE)**
