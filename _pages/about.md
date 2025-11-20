@@ -84,12 +84,12 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.08 - 2023.08</div><img src='images/phbb.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robot Middleware Control Library based on STM32 HAL**
+**STM32 HAL–Based Mid-Layer Robot Control Library**
 
-- Developed a robot control middleware based on STM32 HAL, encapsulating motor driving, IMU data processing, chassis kinematics solving, gimbal attitude control, and upper computer communication protocols.
-- Supported Mecanum wheel and Swerve chassis models, providing kinematics and dynamics solving functions with a unified interface structure.
-- Decoupled execution control and perception data streams, designing modular task loops and device abstraction layers to improve code maintainability.
-- Reused in multiple competitive and research robots, significantly reducing hardware porting and control strategy iteration costs.
+- Developed a reusable mid-layer control library based on the STM32 HAL framework, integrating motor drivers, IMU data processing, chassis kinematics, gimbal attitude control, and host-computer communication protocols into a unified interface.
+- Supported multiple mobile platforms including Mecanum, Swerve, and two-wheel self-balancing robots modeled as inverted pendulums; built state-space formulations and implemented LQR-based attitude stabilization, providing unified kinematic and dynamic computation functions across platforms.
+- Decoupled execution control and perception data flow, designing a modular task loop and device abstraction layer to improve maintainability and system extensibility.
+- The control library was reused across several competition and research robots, significantly reducing hardware porting effort and control-strategy iteration cost.
 </div>
 </div>
 
