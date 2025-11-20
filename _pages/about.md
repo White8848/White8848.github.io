@@ -40,6 +40,18 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.07 - 2025.10</div><img src='images/nav_demo.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EKF_SLAM_ROS2: Real-Time Multi-Sensor SLAM System**
+
+- Built a real-time EKF-based SLAM framework in ROS2, fusing odometry, IMU, LiDAR, and point cloud data for high-frequency state estimation and robust 2D mapping.
+- Implemented core EKF components in C++/Python, including nonlinear prediction–update models, noise modeling, observation processing, and multi-frame coordinate transformations.
+- Designed ROS2 node communication, topic and TF management, parameter configuration, and launch structure, forming a modular and reusable SLAM architecture.
+- Performed Gazebo simulation and rviz2 visualization debugging; improved cross-platform portability through parameterized modular design, supporting rapid algorithm extension and real-robot deployment.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.02 - 2023.06</div>
 <img src='images/vk-rrt-1.png' alt="sym" width="100%">
 <div style="text-align: center;">Scenario 1</div>
