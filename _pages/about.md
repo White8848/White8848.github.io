@@ -27,6 +27,18 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 
 # 💻 Research Experience
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.07 - 2025.10</div><img src='images/nav_demo.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EKF_SLAM_ROS2: Real-Time Multi-Sensor SLAM System**
+
+- Built a real-time EKF-based SLAM framework in ROS2, fusing odometry, IMU, LiDAR, and point cloud data for high-frequency state estimation and robust 2D mapping.
+- Implemented core EKF components in C++/Python, including nonlinear prediction–update models, noise modeling, observation processing, and multi-frame coordinate transformations.
+- Designed ROS2 node communication, topic and TF management, parameter configuration, and launch structure, forming a modular and reusable SLAM architecture.
+- Performed Gazebo simulation and rviz2 visualization debugging; improved cross-platform portability through parameterized modular design, supporting rapid algorithm extension and real-robot deployment.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.06 - 2024.03</div><img src='images\p1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -37,18 +49,6 @@ My research interests include **Robotics Learning, Probabilistic Robotics, Optim
 - Constructed task-level behavioral decision logic based on Behavior Trees, enabling the robot to autonomously complete target recognition, candidate task point search, and behavior sequence switching.
 - Implemented global path planning (RRT / RRT*) and local obstacle avoidance control using NAV2; combined with obstacle motion trend prediction to execute online trajectory correction.
 - Validated sensor noise modeling, parameter calibration, and behavioral strategies in Gazebo, then migrated the system to a physical mobile robot platform (18–25 Hz).
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2025.07 - 2025.10</div><img src='images/nav_demo.gif' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**EKF_SLAM_ROS2: Real-Time Multi-Sensor SLAM System**
-
-- Built a real-time EKF-based SLAM framework in ROS2, fusing odometry, IMU, LiDAR, and point cloud data for high-frequency state estimation and robust 2D mapping.
-- Implemented core EKF components in C++/Python, including nonlinear prediction–update models, noise modeling, observation processing, and multi-frame coordinate transformations.
-- Designed ROS2 node communication, topic and TF management, parameter configuration, and launch structure, forming a modular and reusable SLAM architecture.
-- Performed Gazebo simulation and rviz2 visualization debugging; improved cross-platform portability through parameterized modular design, supporting rapid algorithm extension and real-robot deployment.
 </div>
 </div>
 
